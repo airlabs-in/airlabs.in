@@ -1,5 +1,5 @@
 
-# [Airlabs](https://airlabs.one)
+# [Air Labs LLP website](https://airlabs.one)
 [![Release](https://github.com/airlabsgit/airlabs.one/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/airlabsgit/airlabs.one/actions/workflows/pages/pages-build-deployment)
 ## Welcome to GitHub Pages
 
