@@ -6,23 +6,23 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-  <loc>https://airlabs.one/</loc>
+  <loc>https://airlabs.in/</loc>
   <lastmod>2023-11-27T14:21:49+00:00</lastmod>
   <xhtml:link rel="canonical" href="https://airlabs.in/#home" />
   <changefreq>monthly</changefreq>
 </url>
 
 <url>
-  <loc>https://airlabs.one/#about</loc>
+  <loc>https://airlabs.in/#about</loc>
   <lastmod>2023-11-27T14:21:49+00:00</lastmod>
 </url>
 
 <url>
-  <loc>https://airlabs.one/#products</loc>
+  <loc>https://airlabs.in/#products</loc>
   <lastmod>2023-11-27T14:21:49+00:00</lastmod>
 </url>
 <url>
-  <loc>https://airlabs.one/#contact</loc>
+  <loc>https://airlabs.in/#contact</loc>
   <lastmod>2023-11-27T14:21:49+00:00</lastmod>
 </url>
 </urlset>
