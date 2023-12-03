@@ -65,7 +65,6 @@ p {
 /* Buttons */
 
 .main-button a {
-  background-color: rgb(189, 126, 58);
   color: #fff;
   font-size: 13px;
   text-transform: uppercase;
@@ -74,6 +73,11 @@ p {
   padding: 12px 20px;
   display: inline-block;
   outline: none;
+    background: rgb(189 126 58 / 20%);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgb(65 65 65 / 30%);
 }
 
 a.menu-link {
@@ -167,12 +171,16 @@ a.menu-link {
 }
 
 .main-header {
-  background-color: rgba(42, 44, 49,0.95);
   height: 80px;
   position: fixed;
   z-index: 12;
   width: 100%;
   top: 0;
+  background: rgb(42 44 49 / 20%);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgb(65 65 65 / 30%);
 }
 
 .main-header .logo {
@@ -402,13 +410,21 @@ section.features .col-4 {
   bottom: 0;
   left: 0;
   width: 100%;
-  background-color: #0c1228;
   color: #fff;
   padding: 40px;
+  background: rgb(12 18 40 / 30%);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgb(65 65 65 / 30%);
 }
 
 .features-content:hover {
-  background-color: rgb(189, 126, 58);
+  background: rgba(117, 99, 81, 0.4);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgb(65 65 65 / 30%);
   box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.5);
 }
 
