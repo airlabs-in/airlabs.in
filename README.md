@@ -1,6 +1,6 @@
 
 # [Air Labs LLP website](https://airlabs.one)
-[![Release](https://github.com/airlabsgit/airlabs.one/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/airlabsgit/airlabs.one/actions/workflows/pages/pages-build-deployment)
+[![airlabs.in - deployment](https://github.com/airlabs-in/airlabs.in/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/airlabs-in/airlabs.in/actions/workflows/pages/pages-build-deployment)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/airlabsgit/airlabs.one/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
