@@ -115,17 +115,32 @@
   <section class="section main-banner" id="top" data-section="home">
     <canvas id="bg-pi-canvas"></canvas>
     <div class="video-overlay header-text">
-      <div class="caption">
-        <h6 class="text-glow">Empowering AI & Deep Tech Experiments</h6>
-        <h2>We make day to day life <br><span>Get Better</span></h2>
-        <div class="main-button">
-          <div class="scroll-to-section">
-            <a href="#products" class="btn-glow">Discover Our Products <i class="fa fa-arrow-right"></i></a>
+      <div class="container hero-container">
+        <div class="row align-items-center">
+          
+          <!-- Left side: Text caption -->
+          <div class="col-lg-6 col-md-12 text-center text-lg-start">
+            <div class="caption hero-caption">
+              <h6 class="text-glow">Empowering AI & Deep Tech Experiments</h6>
+              <h2>We make day to day life <br><span>Get Better</span></h2>
+              <div class="main-button">
+                <div class="scroll-to-section">
+                  <a href="#products" class="btn-glow">Discover Our Products <i class="fa fa-arrow-right"></i></a>
+                </div>
+              </div>
+            </div>
           </div>
+          
+          <!-- Right side: 3D Earth globe -->
+          <div class="col-lg-6 col-md-12 d-flex justify-content-center align-items-center position-relative mt-5 mt-lg-0">
+            <div id="globe-container"></div>
+          </div>
+
         </div>
       </div>
     </div>
   </section>
+
 
   <!-- Features Cards Section -->
   <section class="features reveal-on-scroll">
@@ -535,6 +550,10 @@
   <script src="assets/js/lightbox.min.js"></script>
   <script src="assets/js/tabs.min.js"></script>
   <script src="assets/js/pi-visualization.js"></script>
+  <script src="https://unpkg.com/three@0.134.0/build/three.min.js"></script>
+  <script src="https://unpkg.com/globe.gl@2.26.0/dist/globe.gl.min.js"></script>
+  <script src="assets/data/countries-data.js"></script>
+  <script src="assets/js/earth-globe.js"></script>
   <script src="assets/js/slick-slider.js"></script>
   <script src="assets/js/custom.js?v=1.1"></script>
 
